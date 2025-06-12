@@ -1,0 +1,6 @@
+{
+  "html.autoClosingTags": false,
+  "html.autoCreateQuotes": false,
+  "editor.suggestOnTriggerCharacters": false, 
+  "editor.quickSuggestions": {}
+}

@@ -1,0 +1,71 @@
+/* style.css - Main stylesheet */
+
+/* Reset some default browser styles */
+.landingpage {
+   background-color: rgb(245, 203, 245);
+}
+
+.homepage {
+   background-color: rgb(245, 203, 245);
+}
+
+.builds {
+   background-color: rgb(245, 203, 245);
+}
+
+.Navigation {
+   text-align: left;
+    border: 2px solid;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+}
+
+.Navigation {
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    font-size: 25px;
+    display: block;
+    width: 100%;
+    max-width: 1750px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 33px;
+    top: 56px;
+    position: fixed;
+}
+
+.LandingPageTextFirst {
+    top: 108px;
+    position: relative;
+    font-size: 18px;
+    font-family: 'Cursive';
+}
+
+.LandingPageTextSecond {
+    top: 108px;
+    position: relative;
+    font-size: 18px;
+    font-family: 'Cursive';
+}
+
+Test{
+    color: violet;
+}
+.MadamHerta {
+ position: fixed;
+ right: 200px;
+    top: 300px;
+}
+
+.vid {
+ position: fixed;
+    left: 100px;
+    top: 300px;
+    border: 5px solid;
+    border-color: darkslateblue;
+}
+
+

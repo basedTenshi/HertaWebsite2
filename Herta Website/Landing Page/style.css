@@ -1,0 +1,37 @@
+/* style.css - Main stylesheet */
+
+/* Reset some default browser styles */
+.landingpage {
+   background-color: rgb(245, 203, 245);
+}
+
+.homepage {
+   background-color: rgb(245, 203, 245);
+}
+
+.builds {
+   background-color: rgb(245, 203, 245);
+}
+
+.Navigation {
+   text-align: center;
+   border-style: solid;
+   border: 80%;
+   border-spacing: 100%;
+}
+
+.Intro {
+   text-align: center;
+}
+
+.MadamHerta {
+ position: sticky;
+ left: 980px;
+}
+
+.Cutegif {
+ position: relative;
+ top: -410px;
+ right: 300px;
+}
+
